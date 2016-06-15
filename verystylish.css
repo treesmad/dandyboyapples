@@ -1,0 +1,123 @@
+/* W R A P P E R
+-------------------*/
+#wrapper{
+  width: 1440px;
+  margin: 20px auto;
+}
+/* H E A D E R
+------------------*/
+header{
+  width: 385px;
+  height: 343px;
+  background-image: url("logo.png");
+  margin-left: auto;
+  margin-right: auto;
+}
+main{
+  width: 385px;
+  height: 343px;
+  background-image: url("logo.png");
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10em;
+}
+/*N A V I G A T I O N
+-------------------------*/
+#majora{
+  width: auto;
+  height: 60px;
+  background-color: white;
+  margin: 0;
+  padding-top: 30px;
+}
+
+#majora li{
+  display: inline;
+  margin-left:150px;
+  font-family: Chewy;
+  font-size: 30px;
+}
+#mask li{
+  display: inline;
+  margin-left: 150px;
+  font-family:Chewy;
+  font-size: 42px;
+}
+
+
+/* I N F O
+--------------*/
+#info{
+  width: 1440px;
+  height: 750px;
+  background-color: white;
+  margin-left:auto;
+  margin-right:auto;
+}
+.linkphoto{
+  border-color: black;
+  border-width:1em;
+  border-style: solid;
+  border-radius: 50%;
+  margin-left:8em;
+  margin-top:4em;
+  }
+
+  #text{
+  width: 650px;
+  height: 600px;
+  border: 5px black solid;
+  position:absolute;
+  top: 500px;
+  right:270px;
+  font-family: monospace;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+/* S U B M I T T E R
+------------------------*/
+.makelong {
+  width: 800px;
+  margin-top: 15em;
+  margin-left:45em;
+}
+#laburru {
+position: absolute;
+top:20em;
+left:35em;
+font-family: Chewy;
+font-size:25px;
+}
+
+.thumbsupyeah{
+  border-color: black;
+  border-width:1em;
+  border-style: solid;
+  border-radius: 50%;
+  width: 600px;
+  height: 578px;
+  position: absolute;
+  top: 30em;
+  left: 10em;
+}
+.bigfont {
+  font-size: 32px;
+}
+
+/* F O O T E R
+------------------*/
+footer{
+  width: 1560px;
+  height: 60px;
+  background-color: black;
+  magin-left:auto;
+  margin-right:auto;
+}
+.footinfo {
+  color: white;
+  font-family: Chewy;
+  padding-top: 20px;
+  padding-left: 500px;
+}
